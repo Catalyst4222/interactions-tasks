@@ -11,7 +11,7 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 setup(
-    name="interactions-wait-for",
+    name="interactions-tasks",
     version=version,
     description="Add a task system to discord-py-interactions, similar to discord.ext.tasks",
     long_description=long_description,
